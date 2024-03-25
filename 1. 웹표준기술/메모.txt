@@ -1,0 +1,12 @@
+<img>
+    - src : 이미지 경로
+절대 경로 
+
+상대 경로
+
+file:///D:/../05/ - 기준 경로
+file:///D:/../05/ex00.html
+file:///D:/../05/images/logo.png
+images/logo.png -> file:///D:/../05/images/logo.png
+
+.. : 상위 경로
